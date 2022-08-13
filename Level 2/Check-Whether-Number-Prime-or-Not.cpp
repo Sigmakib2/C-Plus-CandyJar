@@ -1,3 +1,4 @@
+//Program to Check Whether a Number is Prime or Not
 #include <iostream>
 using namespace std;
 
